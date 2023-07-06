@@ -1,4 +1,4 @@
-### Rock-Paper-Scissors
+# Rock-Paper-Scissors
  
 
-# Built using simple Javascript
+### Built using simple Javascript
