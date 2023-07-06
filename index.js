@@ -27,7 +27,7 @@ function game() {
   let computerScore = 0;
 
   for (let round = 1; round <= 5; round++) {
-    const playerSelection = prompt('Enter your choice (Rock, Paper, or Scissors):');
+    const playerSelection = prompt('Enter your choice (Rock, Paper, or Scissors):\n Remember to open the console before starting');
     const computerSelection = getComputerChoice();
 
     const result = playRound(playerSelection, computerSelection);
